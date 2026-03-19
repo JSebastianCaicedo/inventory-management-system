@@ -1,0 +1,11 @@
+.env
+__pycache__/
+*.db
+dist/
+build/
+venv/
+*.log
+config_local.json
+~$*.xlsx
+*.xlsx
+venv-build/
